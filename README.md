@@ -3,6 +3,9 @@
 ### 👨‍🎓 About Me  
 My name is **Phung Anh Luc** and I'm a **Multimedia Technology student** from **PTITHCM**.  
 
+[🌐 My portfolio](https://lucdpt3105.github.io/Portfolio-PAL/)
+
+
 ✨ Creating bugs since **2023**  
 📚 Currently learning **UML** and **Front-End Programming**, while hoping to gain skills in **Back-End** too.  
 🎯 Goals: Becoming a **BrSE (Bridge System Engineer)**  
