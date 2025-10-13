@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="196" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="196" src="https://github.com/Lucdpt3105/Lab/blob/83f3a983f2f0958b3f712e2a9565b0a301c08f40/Comp%201_1%20(1).gif"  />
 
 ###
 
@@ -19,6 +19,7 @@
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning UML and Front-End Programming, hoping to gain skills in Back-End too.<br>🎯 Goals: Becoming a BrSE (Bridge System Engineer)<br>🎲 Fun fact: Still breaking things since 2023 😅</p>
 
 ###
+<p align="left">✨ Visit my portfolio<br>[🌐 My portfolio](https://lucdpt3105.github.io/Portfolio-PAL/)</p>
 
 <h2 align="left">I code with</h2>
 
