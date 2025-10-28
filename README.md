@@ -19,7 +19,7 @@
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning UML and Front-End Programming, hoping to gain skills in Back-End too.<br>🎯 Goals: Becoming a BrSE (Bridge System Engineer)<br>🎲 Fun fact: Still breaking things since 2023 😅</p>
 
 ###
-<p align="left">✨ Visit my portfolio<br>[🌐 My portfolio](https://lucdpt3105.github.io/Portfolio-PAL/)</p>
+<p align="left">✨ Visit my portfolio<br>[🌐 My portfolio](https://lucdpt3105.github.io/)</p>
 
 <h2 align="left">I code with</h2>
 
