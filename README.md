@@ -1,12 +1,7 @@
 <!-- ================= HERO ================= -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hello%20👋%20I'm%20Luke%20Yorm&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=FFFFFF&theme=cobalt"/>
-
 </div>
-
----
-
 <!-- ================= ABOUT ================= -->
 <img align="right" height="190" src="https://github.com/Lucdpt3105/Lab/blob/83f3a983f2f0958b3f712e2a9565b0a301c08f40/Comp%201_1%20(1).gif"/>
 
