@@ -19,6 +19,35 @@
 
 ---
 
+<!-- ================= STATS ================= -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucdpt3105&theme=github_dark">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucdpt3105&theme=default">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucdpt3105&theme=github_dark">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucdpt3105&theme=default">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucdpt3105&theme=github_dark">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucdpt3105&theme=default">
+  </picture>
+</p>
+
+---
 <!-- ================= TECH STACK ================= -->
 # 💻 My favorite tools and technologies
 
@@ -126,37 +155,6 @@
 </div>
 
 ---
-
-<!-- ================= STATS ================= -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucdpt3105&theme=github_dark">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucdpt3105&theme=default">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucdpt3105&theme=github_dark">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucdpt3105&theme=default">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucdpt3105&theme=github_dark">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucdpt3105&theme=default">
-  </picture>
-</p>
-
----
-
 <!-- ================= SNAKE ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lucdpt3105/Lucdpt3105/output/snake.svg" alt="Snake animation"/>
