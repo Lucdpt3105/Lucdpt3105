@@ -8,7 +8,7 @@
 
 👤 **Name:** Phung Anh Luc (Luke)  
 🎓 **Major:** Multimedia Application Development – PTIT HCM  
-🚀 **Target:** Aspiring **Bridge System Engineer (BrSE)** 🌐 **Languages:** Vietnamese (Native) | English (Professional) | Japanese (Learning)  
+🚀 **Target:** Aspiring **Bridge System Engineer (BrSE)** 🌐 **Languages:** Vietnamese (Native) | English (Upper-Intermediate) | Japanese (Learning)  
 💻 **Current Path:** Frontend Web Development 
 🐛 **Fun fact:** I enjoy breaking things just to learn how to fix them since 2023.
 
