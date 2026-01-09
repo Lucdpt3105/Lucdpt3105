@@ -6,8 +6,6 @@
 
 ### 👨‍💻 About Me
 
-**"Bridging the gap between creative design and robust technical implementation."**
-
 👤 **Name:** Phung Anh Luc (Luke)  
 🎓 **Major:** Multimedia Application Development – PTIT HCM  
 🚀 **Target:** Aspiring **Bridge System Engineer (BrSE)** 🌐 **Languages:** Vietnamese (Native) | English (Professional) | Japanese (Learning)  
