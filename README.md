@@ -42,16 +42,27 @@
 <tr>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php" width="45"/><br>PHP</td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel" width="45"/><br>Laravel</td>
-  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
-  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=django" width="45"/><br>Django</td>
 </tr>
 <tr>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nest" width="45"/><br>NestJS</td>
-  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+</tr>
+
+<tr>
+  <td align="center" colspan="5"><b>☁️ Database & Infrastructure</b></td>
+</tr>
+<tr>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Ubuntu</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure" width="45"/><br>Azure</td>
 </tr>
 
 <tr>
