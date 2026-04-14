@@ -6,8 +6,7 @@
 
 ### 👨‍💻 About Me
 
-👤 **Name:** Phung Anh Luc (Luke)  
-![Profile views](https://komarev.com/ghpvc/?username=Lucdpt3105)
+👤 **Name:** Phung Anh Luc 
 🎓 **Major:** Multimedia Application Development – PTIT HCM  
 🚀 **Target:** Aspiring **Bridge System Engineer (BrSE)** 🌐 **Languages:** Vietnamese (Native) | English (Upper-Intermediate) | Japanese (Learning)  
 💻 **Current Path:** Backend Web Developer 
