@@ -49,7 +49,7 @@
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nest" width="45"/><br>NestJS</td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
-  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+ <td align="center" width="110"><img src="https://skillicons.dev/icons?i=dotnet" width="45"/><br>.NET</td>
 </tr>
 
 <tr>
