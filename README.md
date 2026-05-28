@@ -21,15 +21,13 @@
 ### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucdpt3105&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards-seven.vercel.app/api/cards/profile-details?username=Lucdpt3105&theme=github_dark" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucdpt3105&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucdpt3105&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards-seven.vercel.app/api/cards/stats?username=Lucdpt3105&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards-seven.vercel.app/api/cards/repos-per-language?username=Lucdpt3105&theme=github_dark" height="150" />
 </p>
-
----
 
 ### 💻 My Technology Stack
 
