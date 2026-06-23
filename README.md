@@ -1,18 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hello%20👋%20I'm%20Luke%20Phung&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=FFFFFF&color=0:74ebd5,100:ACB6E5"/>
-</div>
 
-<div align="center">
-
-### 👨‍💻 About Me
-
-👤 **Name:** Phung Anh Luc 
-🎓 **Major:** Multimedia Application Development – PTIT HCM  
-🚀 **Target:** Aspiring **Bridge System Engineer (BrSE)** 🌐 **Languages:** Vietnamese (Native) | English (Upper-Intermediate) | Japanese (Learning)  
-💻 **Current Path:** Backend Web Developer 
-🐛 **Fun fact:** I enjoy breaking things just to learn how to fix them since 2023.
-
-[**Check out my Portfolio**](https://lucdpt3105.github.io/)
 
 </div>
 
